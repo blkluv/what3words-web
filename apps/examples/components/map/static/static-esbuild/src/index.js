@@ -1,7 +1,7 @@
 function main() {
   what3words.loader.load({
     script: {
-      url: "http://localhost:3000/dist/javascript-components",
+      url: "https://what3words-web-javascript.vercel.app/",
       version: process.env.VERSION,
     },
   });
